@@ -1,4 +1,4 @@
-# Bluetooth A2DP Keeper — Revenge Plugin
+ # Bluetooth A2DP Keeper — Revenge Plugin
 
 Prevents Discord from switching your Bluetooth headphones into low-quality
 HFP/SCO telephony mode when joining a voice call. Keeps Bluetooth locked in
